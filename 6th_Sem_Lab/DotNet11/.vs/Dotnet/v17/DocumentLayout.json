@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CAB\\6th_Sem_Lab\\DotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\11_asynchronous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\11_asynchronous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\10_linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\10_linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\dotnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:dotnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\9_generic_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\9_generic_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\8_use_delegate\u0026events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\8_use_delegate\u0026events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\6_multiple_ineritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\6_multiple_ineritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\5_overload_ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\5_overload_ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\4_encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\4_encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\3_basic_class\u0026obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\3_basic_class\u0026obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\1_convertsrting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\1_convertsrting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|d:\\cab\\6th_sem_lab\\dotnet\\lab1\\2_stringinterchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D083F-BED3-4371-A6B2-2C89EC4AE47E}|Dotnet.csproj|solutionrelative:lab1\\2_stringinterchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dotnet",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dotnet\\Dotnet.csproj",
+              "RelativeDocumentMoniker": "Dotnet.csproj",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dotnet\\Dotnet.csproj",
+              "RelativeToolTip": "Dotnet.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T07:16:06.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "6_Multiple_Ineritance.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\6_Multiple_Ineritance.cs",
+              "RelativeDocumentMoniker": "Lab1\\6_Multiple_Ineritance.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\6_Multiple_Ineritance.cs",
+              "RelativeToolTip": "Lab1\\6_Multiple_Ineritance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:02:24.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "3_Basic_Class\u0026Obj.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dotnet\\Lab1\\3_Basic_Class\u0026Obj.cs",
+              "RelativeDocumentMoniker": "Lab1\\3_Basic_Class\u0026Obj.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dotnet\\Lab1\\3_Basic_Class\u0026Obj.cs",
+              "RelativeToolTip": "Lab1\\3_Basic_Class\u0026Obj.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:55:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "5_Overload_Ride.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\5_Overload_Ride.cs",
+              "RelativeDocumentMoniker": "Lab1\\5_Overload_Ride.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\5_Overload_Ride.cs",
+              "RelativeToolTip": "Lab1\\5_Overload_Ride.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:01:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "8_Use_Delegate\u0026Events.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\8_Use_Delegate\u0026Events.cs",
+              "RelativeDocumentMoniker": "Lab1\\8_Use_Delegate\u0026Events.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\8_Use_Delegate\u0026Events.cs",
+              "RelativeToolTip": "Lab1\\8_Use_Delegate\u0026Events.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvywAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:04:54.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "9_Generic_Class.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\9_Generic_Class.cs",
+              "RelativeDocumentMoniker": "Lab1\\9_Generic_Class.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\9_Generic_Class.cs",
+              "RelativeToolTip": "Lab1\\9_Generic_Class.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:06:11.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10_Linq.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\10_Linq.cs",
+              "RelativeDocumentMoniker": "Lab1\\10_Linq.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\10_Linq.cs",
+              "RelativeToolTip": "Lab1\\10_Linq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:08:30.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "11_Asynchronous.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\11_Asynchronous.cs",
+              "RelativeDocumentMoniker": "Lab1\\11_Asynchronous.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\11_Asynchronous.cs",
+              "RelativeToolTip": "Lab1\\11_Asynchronous.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:11:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "4_Encapsulation.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\4_Encapsulation.cs",
+              "RelativeDocumentMoniker": "Lab1\\4_Encapsulation.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\DotNet\\Lab1\\4_Encapsulation.cs",
+              "RelativeToolTip": "Lab1\\4_Encapsulation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:58:35.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1_ConvertSrting.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dotnet\\Lab1\\1_ConvertSrting.cs",
+              "RelativeDocumentMoniker": "Lab1\\1_ConvertSrting.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dotnet\\Lab1\\1_ConvertSrting.cs",
+              "RelativeToolTip": "Lab1\\1_ConvertSrting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:00:22.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "2_StringInterchange.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dotnet\\Lab1\\2_StringInterchange.cs",
+              "RelativeDocumentMoniker": "Lab1\\2_StringInterchange.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dotnet\\Lab1\\2_StringInterchange.cs",
+              "RelativeToolTip": "Lab1\\2_StringInterchange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:18:40.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

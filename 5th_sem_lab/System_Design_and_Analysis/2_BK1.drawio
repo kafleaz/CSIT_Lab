@@ -1,0 +1,89 @@
+<mxfile host="65bd71144e">
+    <diagram id="VJRxaarhGqcMfxdURh_H" name="Page-1">
+        <mxGraphModel dx="822" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" value="Transaction Request" style="edgeStyle=none;html=1;entryX=0.563;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2" target="6" edge="1">
+                    <mxGeometry x="-0.2512" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="679" y="235"/>
+                        </Array>
+                        <mxPoint x="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="Balance info" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry x="-0.4545" relative="1" as="geometry">
+                        <mxPoint y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Bank&lt;br&gt;Check" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="180" width="110" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Loan Confirmation" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry x="-0.2281" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="150" y="455"/>
+                        </Array>
+                        <mxPoint x="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="Update Balance" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="11" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="680" y="455"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="Transaction&lt;br&gt;Process" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="400" width="110" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Update Account" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4" target="11" edge="1">
+                    <mxGeometry x="-0.2615" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="680" y="645"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="Account &lt;br&gt;Opening" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="590" width="110" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Transaction request" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5" target="2" edge="1">
+                    <mxGeometry x="0.2542" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="150" y="235"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="Customer information" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5" target="4" edge="1">
+                    <mxGeometry x="0.451" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="115" y="645"/>
+                        </Array>
+                        <mxPoint x="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="Customer" style="html=1;dashed=0;whitespace=wrap;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="320" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Loan Confirmation" style="edgeStyle=none;html=1;entryX=0.743;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6" target="3" edge="1">
+                    <mxGeometry x="-0.2404" relative="1" as="geometry">
+                        <mxPoint x="440" y="400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="442" y="350"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="Bank" style="html=1;dashed=0;whitespace=wrap;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="320" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Account Database" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="480" width="160" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
