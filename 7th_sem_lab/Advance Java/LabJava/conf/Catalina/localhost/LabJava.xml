@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="D:/CAB/7th Sem/LabJava/web">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="D:/CAB/7th Sem/LabJava/out/production/LabJava" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="D:/Program Files/javax.servlet-api-4.0.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javax.servlet-api-4.0.1.jar"/>
+    <PostResources base="D:/Program Files/javafx-sdk/javafx-sdk-20.0.2/lib/javafx-swt.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javafx-swt.jar"/>
+    <PostResources base="D:/Program Files/javafx-sdk/javafx-sdk-20.0.2/lib/javafx.web.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javafx.web.jar"/>
+    <PostResources base="D:/Program Files/javafx-sdk/javafx-sdk-20.0.2/lib/javafx.base.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javafx.base.jar"/>
+    <PostResources base="D:/Program Files/javafx-sdk/javafx-sdk-20.0.2/lib/javafx.fxml.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javafx.fxml.jar"/>
+    <PostResources base="D:/Program Files/javafx-sdk/javafx-sdk-20.0.2/lib/javafx.media.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javafx.media.jar"/>
+    <PostResources base="D:/Program Files/javafx-sdk/javafx-sdk-20.0.2/lib/javafx.swing.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javafx.swing.jar"/>
+    <PostResources base="D:/Program Files/javafx-sdk/javafx-sdk-20.0.2/lib/javafx.controls.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javafx.controls.jar"/>
+    <PostResources base="D:/Program Files/javafx-sdk/javafx-sdk-20.0.2/lib/javafx.graphics.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javafx.graphics.jar"/>
+    <PostResources base="D:/Program Files/postgresql-42.7.5.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/postgresql-42.7.5.jar"/>
+  </Resources>
+</Context>
